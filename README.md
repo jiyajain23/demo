@@ -25,7 +25,3 @@ You can compile, deploy, and test it easily using **Remix IDE** or **Hardhat**.
 ✅ Allow individual or batch payouts  
 ✅ Compatible with Remix VM or Ethereum testnets (Sepolia, Holesky)
 
----
-
-    }
-}
